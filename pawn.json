@@ -1,6 +1,6 @@
 {
     "user": "Agneese-Saini",
-	"repo": "PreviewModelDialog-4.5.1-edited",
+	"repo": "PreviewModelDialog-vehCol",
 	"dependencies": [
 		"sampctl/samp-stdlib",
         "BigETI/pawn-memory"
